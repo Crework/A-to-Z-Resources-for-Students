@@ -1147,16 +1147,3 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	One of the best sites for students and job seekers, sawaal.com 
 	includes a lot of questions that tests both the mathematical and logical abilities of the students. 
 	These questions are carefully drafted and are in line with the most common questions that are usually asked in the examinations.
-
-## 16. Created and Maintained By
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-----
-
-Hey, I am excited to see you here. I hope you find the project useful. Follow me and Share the A2Z-Resources in your network. 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/HQdeepak.svg?style=social)](https://twitter.com/HQdeepak)
-
-Support my work 
-
-<a href="https://www.buymeacoffee.com/dipakkr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 117px !important;" ></a>
-
